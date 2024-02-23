@@ -40,7 +40,7 @@ const Home = () => {
           <img src={GitHub} alt="GitHub" className="link-icon" />
           github.com/brettnguyen
         </a>
-        <a href="https://linkedin.com/in/brett-nguyen" target="_blank" rel="noopener noreferrer">
+        <a href="https://www.linkedin.com/in/brett-nguyen-a94a90156/" target="_blank" rel="noopener noreferrer">
           <img className='linkedmail' src={LinkedIn} alt="LinkedIn"  />
           linkedin.com/in/brett-nguyen
         </a>
